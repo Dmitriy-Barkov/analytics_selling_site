@@ -5,4 +5,4 @@ ________
 - Analysis of given data using a/b-test based on __bootstrap__;
 - Calculations of **CR**, **ARPU** and **ARPAU** inside SQL-query;
 - Creation of **python** function which downloads new data and recalculate metrics;
-- Creation of **python** function which vizualize metrics dynamic.
+- Creation of **python** function which vizualizes metrics dynamic.
